@@ -6,6 +6,7 @@
   </em>
 </p>
 
+## About Me
 - 🔭 I am currently studying for a master's degree in Guangxi University.
 - 🌱 My research direction is the application of deep learning in the field of medical image.
 - 👯 Graduate student's study life is hard and interesting, just enjoy it.
@@ -16,7 +17,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...y  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const liyun-lu = {
