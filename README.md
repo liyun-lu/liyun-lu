@@ -1,7 +1,7 @@
 <h2> Hi, I'm Liyun Lu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p>
-  <em>Software Enginner at <a href="https://www.gxu.edu.cn/">GuangXi University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  <em>Electronic and Information Enginner at <a href="https://www.gxu.edu.cn/">GuangXi University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>My Blog is <a href="https://blog.csdn.net/qq_36484003">Hear</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
