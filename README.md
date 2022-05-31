@@ -11,7 +11,7 @@
 - 🌱 My research direction is the application of deep learning in the field of medical image.
 - 👯 Graduate student's study life is hard and interesting, just enjoy it.
 - 💬 Ask me about [My Issue](https://github.com/liyun-lu/liyun-lu/issues)
-- 📫 How to reach me: 1248730326@qq.com
+- 📫 How to reach me: luly1061@163.com
 - 😄 Pronouns: positive, nice, friendly.
 
 
